@@ -1,8 +1,3 @@
-// import static org.junit.jupiter.api.Assertions.assertEquals;
-
-// import org.junit.jupiter.api.Test;
-
-// Crie um algoritmo que leia dois números e exiba o resultado da divisão entre eles. O algoritmo deverá seguir todas as regras da divisão de números reais.
 
 import java.util.Scanner;
 
@@ -28,8 +23,5 @@ public class QUESTAO1 {
     enterScanner.close();
   }
 
-  // @Test
-  // void addition() {
-  //     assertEquals(2, 1 + 1);
-  // }
+
 }
