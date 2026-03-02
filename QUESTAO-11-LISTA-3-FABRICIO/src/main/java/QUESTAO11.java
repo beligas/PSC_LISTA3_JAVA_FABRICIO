@@ -1,8 +1,4 @@
-// import static org.junit.jupiter.api.Assertions.assertEquals;
 
-// import org.junit.jupiter.api.Test;
-
-// Crie um programa para exibir o menu de um caixa eletrônico. Ele deve possuir as opções: Exibir saldo, Exibir extrato, Realizar depósito, Realizar saque, e Sair. Se alguma opção inválida for fornecida, exiba uma mensagem de erro e saia do programa. Observação: Utilize a estrutura de seleção Switch/Case para implementar seu produto. Utilize números inteiros para indicar cada opção.
 
 import java.util.Scanner;
 
@@ -58,8 +54,5 @@ public class QUESTAO11 {
     enterScanner.close();
   }
 
-  // @Test
-  // void addition() {
-  //     assertEquals(2, 1 + 1);
-  // }
+  
 }
