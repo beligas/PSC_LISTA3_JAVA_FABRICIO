@@ -1,8 +1,3 @@
-// import static org.junit.jupiter.api.Assertions.assertEquals;
-
-// import org.junit.jupiter.api.Test;
-
-// Escreva um programa em Java para determinar se o indivíduo está com um peso favorável. Essa situação é determinada através do IMC (Índice de Massa Corpórea), que é definida pela equação: IMC = pesoaltura2. A situação do peso é determinada pela tabela abaixo: 
 
 import java.util.Scanner;
 
@@ -43,8 +38,5 @@ public class QUESTAO5 {
    enterScanner.close();
   }
 
-  // @Test
-  // void addition() {
-  //     assertEquals(2, 1 + 1);
-  // }
+  
 }
