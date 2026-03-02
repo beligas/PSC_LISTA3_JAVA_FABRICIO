@@ -1,10 +1,10 @@
-// Avalie o código abaixo e determine se suas saídas estão corretas. Primeiro, tente identificar a falha sem executar o programa; Em seguida, implemente e veja se acertou. Se houver erros, aponte-os e proponha e implemente as correções.
+
 
 import java.util.Scanner;
 
 public class QUESTAO4 {
 
-  // foi trocado void para public static void main (String[]args )
+  
   
     public static void main (String[]args ) {
       
@@ -19,7 +19,7 @@ public class QUESTAO4 {
         salario = entrada.nextDouble();
 
 
- // foi trocado o if por if else
+
       
         if(salario <= 1000) {
             salario *= taxaAumento3;
@@ -34,7 +34,7 @@ public class QUESTAO4 {
         System.out.println();
         System.out.printf("Novo Salário: R$ %.2f\n\n", salario);
 
-      // foi fechado o scanner
+      
       entrada.close();
     }
 }
